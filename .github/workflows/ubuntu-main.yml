@@ -1,3 +1,9 @@
+name:Ubuntu Desktop with noVNC and Tunnel
+
+on:
+  workflow_dispatch:
+
+jobs:
   run-desktop:
     runs-on: ubuntu-latest
 
